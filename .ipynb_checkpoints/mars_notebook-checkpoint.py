@@ -185,7 +185,7 @@ for x in range(0, 4):
 hemispheres_dict = {'Title': titles_list,
                     'URL': hemispheres_image }
 
-# create a dictionary with all the scraped data
+                    # create a dictionary with all the scraped data
 scraped_dict = {'Title': titles_list,
                 'URL': hemispheres_image,git init
                 'Weather': mars_weather,
